@@ -1,4 +1,4 @@
-name: "Deploy on Freemius"
+name: "Deploy to Freemius"
 description: "Uploads and deploys your plugin on Freemius"
 inputs:
   sandbox:
